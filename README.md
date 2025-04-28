@@ -5,6 +5,7 @@ The page is designed to showcase fashion products, new arrivals, special sales, 
 
 ## 🌐 Live Demo
 👉 [View Live Site](https://landing-page-by-bhupinder.netlify.app/)
+👉 [video](https://www.linkedin.com/posts/bhupinder-singh-a5b554285_webdesign-webdeveloper-webdevelopment-activity-7322475001008324610-ESqh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEVQgecBbvzOq1YRcWDakxBRSBKVawGGzoc)
 
 ---
 
